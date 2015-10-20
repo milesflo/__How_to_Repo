@@ -56,6 +56,13 @@ File a pull request with the commits in it that you want to share. make sure you
 
 ### Typical Collaboration Patterns
 
-How to work on the two different things at the same time.
+How to work on the two different things at the same time. Branching is for when you want to work on somehthing that migh span over multiple commits, that's significant enough to warrant some kind of really specific deliniation.
+
+
+>>>> branching_explanation
+
+A typical collaboration pattern is actually to fork, then branch off of master, then push to your fork, then file a pull request. 
+
+The reason for this is that master, as a branch, should always represent code or whatever that "works" and is suitable for deployment or sharing or whatever "going"
 
 Branching is for when you want to work on something that might span over multiple commits, 
