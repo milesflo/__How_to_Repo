@@ -28,5 +28,28 @@ First, create a GitHub repo.
 
 ```shell
 $ git remote add origin git@github.com:<github username>/<name of repository>.git
-$ git push -u origin master
+$ git push -u origin master (love)
 ```
+
+#### Help someone else with their code
+
+First, find the code on github that you want to contribute to. 
+
+Then Fork it
+
+```shell
+$ git clone git@github.com:AmericaGL/__How_to_Repo.git 
+
+```
+Then, make some changes you think are important.
+
+```shell
+
+$ git add <your files>
+$ git commit -"A really through explanation of what we did since this is someone else"
+$ git push origin master
+```
+
+Finish what you started working on, then push up any additional commits
+
+File a pull request with the commits in it that you 
