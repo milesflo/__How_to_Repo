@@ -10,4 +10,14 @@ $ git add readme.md
 $ git commit -m "initial commit"
 ```
 
+## Do some work and then save it
+
+First, do some work!
+
+```shell
+$ git status
+$ git add <whatever file>
+$ git status
+$ git commit -m" I made a bunch of changes, so this little note to self is here to help me keep track of them"
+```
 
