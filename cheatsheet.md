@@ -28,5 +28,5 @@ First, create a GitHub repo.
 
 ```shell
 $ git remote add origin git@github.com:<github username>/<name of repository>.git
-$ git push -u origin master
+$ git push -u origin master (love)
 ```
