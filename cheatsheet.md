@@ -47,4 +47,8 @@ $ git add <your files>
 $ git commit -m"A really through explanation of what we did since this is someone else's work."
 $ git push origin master
 ```
+Finish what you started working on, then push up any additional commits.
+
+
+
 
