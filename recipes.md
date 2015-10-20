@@ -51,5 +51,10 @@ Finish what you started working on, then push up any additional commits.
 
 File a pull request with the commits in it that you want to share. Make sure you have a good explaination in the pull request of what this is, what it's intended to do, and some nice language, rather than making fun of the original author.
 
+### Setting up Aliases
 
+Aliases are used to cut down on keystrokes by shortening long commands to simple 2-3 letter phrases. These are created by altering Git's global config file, like this:
 
+```shell
+$ git config --global alias.<shortened phrase> <full command>
+```
